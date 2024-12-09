@@ -6,7 +6,7 @@ public class ps {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hola");
-		System.out.println("adios");
+		System.out.println("una cosa distinta");
 	}
 
 }
